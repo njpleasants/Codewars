@@ -10,5 +10,3 @@ function sumDigits(num) {
 
 //Other Codewars solutions
 sumDigits = n => Math.abs(n).toString().split('').reduce((s, e) => s + +e, 0);
-
-
