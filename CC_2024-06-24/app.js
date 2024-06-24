@@ -1,4 +1,4 @@
-//Codewars challenge Volume of a Cuboid
+//Codewars challenge Volume of a Cuboid 8kyu
 //Bob needs a fast way to calculate the volume of a cuboid with three values: the length, width and height of the cuboid. Write a function to help Bob with this calculation.
 //P:Will be fiven three values 
 //R:Return the volume of the cuboid. 
