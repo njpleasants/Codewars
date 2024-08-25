@@ -21,3 +21,4 @@ function combat(health, damage) {
 const combat = (health, damage) => Math.max(0, health - damage);
 
 const combat = (health, damage) => health < damage ? 0 : health - damage;
+
